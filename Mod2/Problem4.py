@@ -1,4 +1,4 @@
-# 1. Create a program that prints the following output to the screen: "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked."
+# 4. Create a program that prompts the user for their birth year and displays a message that says "You are ___ old". Use an f-string in your solution to this problem.
 
 year = int(input("What year were you born? (YYYY format) : "))
 age = 2025 - year
