@@ -1,4 +1,4 @@
-#problem3, this one took me so long! Turns out I multiplied instead of subtracted lol.
+# 3. Create a program that prompts for the side lengths of a triangle and computes the area using Heron's formula. (https://en.wikipedia.org/wiki/Heron%27s_formula)
 import math
 a = float(input("What is the length of side A? "))
 b = float(input("What is the length of side B? "))
