@@ -5,7 +5,7 @@
 
 for i in range(1,6):
     for j in range(1,6):
-        print(i * j, end=" ")
+        print(i * j, end="\t ")
     print(" ")
 #I don't understand how to get the spacing to look like your solution
 #example, would you mind letting me know how to fix this? 
