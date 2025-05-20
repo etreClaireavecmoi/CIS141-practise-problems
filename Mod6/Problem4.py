@@ -1,4 +1,4 @@
-#4.  Create a list of integers. Write code that counts how many numbers are positive 
+#4.  Create a list of integers. Write code that counts how many numbers are positive
 #and how many are negative, then print both counts.
 
 liste = [-1,-2,-3,0,1,2,3,4,5]
@@ -11,6 +11,7 @@ for i in liste:
         nega.append(i)
 print('Original list:', liste)
 print()
-print('Positives in the original list: ', posi)
+print('The count of positives in the original list: ', len(posi))
 print()
-print('Negatives in the original list: ', nega)
+print('The count of negatives in the original list: ', len(nega))
+
