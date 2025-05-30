@@ -7,7 +7,7 @@
 #- Print the dictionary to the console
 
 #note, I tried this with a french song and it was quite tricky. I've included a second instance of the program with
-#song_lyrics2.txt for a primarily english song for easier testing. 
+#song_lyrics2.txt for an english song for easier testing. 
 
 allowed_chars = 'abcdefghijklmnopqrstuvwxyz0123456789 éèàùçôêâîûëïüœ'
 #this ended up being complicated with a french song, so ^ this brute force method was suggested as a way to filter out punctuation.
